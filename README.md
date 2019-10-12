@@ -1,2 +1,2 @@
 # Psychic-Game
-javascript homework assignment (Pychic-Game)
+javascript homework assignment (Psychic-Game)
